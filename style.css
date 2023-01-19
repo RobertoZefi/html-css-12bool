@@ -1,0 +1,14 @@
+[class^='col']{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+}
+
+.col-nested{
+    background-color: greenyellow;
+    color: black;
+    border: 1px solid currentColor;
+}
+

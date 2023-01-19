@@ -6,9 +6,20 @@
     text-align: center;
 }
 
+.container{
+    padding: 20px;
+}
+
 .col-nested{
     background-color: greenyellow;
     color: black;
     border: 1px solid currentColor;
 }
 
+.es-1{
+    margin-bottom: 20px;
+}
+
+.es-2{
+    margin-bottom: 20px;
+}

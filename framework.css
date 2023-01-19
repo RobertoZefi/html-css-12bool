@@ -112,10 +112,6 @@
     margin-left: calc((100% / 12) * 11);
 }
 
-.col-offset-12{
-    margin-left: calc((100% / 12) * 12);
-}
-
 /*******************/
 
 @media all and (min-width:576px){
